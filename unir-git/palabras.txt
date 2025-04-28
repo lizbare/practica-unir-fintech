@@ -1,0 +1,7 @@
+Gato
+Perro
+Conejo
+Leon
+Mariposa
+Arbol
+
